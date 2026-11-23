@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.Rhistory
+.venv/
+.DS_Store
+# Assessment brief from Spotter: not redistributed
+freight-rate-ml-assessment-1-.pdf
